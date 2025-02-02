@@ -1,0 +1,12 @@
+[config]
+schema = "1.0.0"
+url = "https://raw.githubusercontent.com/Wrench56/A-GitHubLogs/main/Plugin.toml"
+
+[plugin]
+name = "A-GitHubLogs"
+version = "0.0.1"
+zip_url = "https://github.com/Wrench56/A-GitHubLogs/archive/refs/heads/main.zip"
+
+[dependencies]
+[dependencies.python]
+version = "^3.7.0"
