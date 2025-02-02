@@ -22,6 +22,10 @@ rules:
       - commitlint
       - readme
       - tools
+      - widgets
+      - pages
+      - frontend
+      - backends
   subject-empty:
     level: error
   type:
